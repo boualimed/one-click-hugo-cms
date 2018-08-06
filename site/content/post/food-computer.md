@@ -5,9 +5,7 @@ description: building a new version of food computer
 ---
 OpenAg's greatest strength is our curious, kind, inclusive, and open community.  
 
-
-
-There's several ways to ask the OpenAg team questions, follow along with our research, and contribute to our  work  here at the MIT Media Lab.  You can always get (and share!) news about OpenAg on Facebook, Twitter and Instagram.
+`There's several ways to ask the OpenAg team questions, follow along with our research, and contribute to our  work  here at the MIT Media Lab.  You can always get (and share!) news about OpenAg on Facebook, Twitter and Instagram.`
 
 
 
